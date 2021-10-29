@@ -1,6 +1,8 @@
 # pomenohenn
 think u got a good voacbulary? try the pomenohenn
 
+`git clone https://github.com/pikulet/pomenohenn`
+`pip3 install -r requirements.txt`
 `python3 main.py`
 
 let me know your score

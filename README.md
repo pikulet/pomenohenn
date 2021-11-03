@@ -8,7 +8,9 @@ Well, unlike the original Cambridge research, this activity is contextless. You'
 If you're up to it, then simply run the python file.
 
 `git clone https://github.com/pikulet/pomenohenn`
+
 `pip3 install -r requirements.txt`
+
 `python3 main.py`
 
 I find it a pretty great way to spend a minute or two, and you can let me know your score :)

@@ -3,7 +3,7 @@ Think you got a good voacbulary? Try pomenohenn!
 
 Apparently, we can ![very easily read words when only the first and last letter are in place](https://www.mrc-cbu.cam.ac.uk/people/matt.davis/cmabridge/).
 
-Well, unlike the original Cambridge research, this activity is contextless. You're not able to infer a word based on it's surrounding words, akin to the handicap an NLP engine gets when you don't train it with sentential connations.
+Well, unlike the original Cambridge research, this activity is contextless. You're not able to infer a word based on it's surrounding words, akin to the handicap an NLP engine gets when you don't train it with sentential connotations.
 
 If you're up to it, then simply run the python file.
 
